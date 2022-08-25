@@ -1,2 +1,3 @@
 # To do list
- Treinando JavaScript, to do list bem interativo e com varias funções para treinar JS
+ Treinando JavaScript, to do list bem interativo e com varias funções para treinar JS <br>
+ link do projeto https://kaesssantos.github.io/To-do-list/
